@@ -1,4 +1,5 @@
 {
+  "docs": "http://truffleframework.com/docs/",
   "ignore": [
     ".gitignore"
   ],
