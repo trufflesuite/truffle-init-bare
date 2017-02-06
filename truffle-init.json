@@ -1,7 +1,8 @@
 {
-  "docs": "http://truffleframework.com/docs/",
+  "docs_url": "http://truffleframework.com/docs/",
   "ignore": [
-    ".gitignore"
+    ".gitignore",
+    "README.md"
   ],
   "commands": {
     "Compile": "truffle compile",
